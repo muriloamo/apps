@@ -1,2 +1,2 @@
-# apps
+# Apps
 Aplicativos dispositivos móveis
